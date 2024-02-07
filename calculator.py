@@ -10,6 +10,7 @@ def multiply(a, b):
 
 def divide_premium(a, b):
     return a/b    
+# ex
 
 def say_hello()
     print("hello")
@@ -26,6 +27,7 @@ def get_Abs(num)
     if mum>=0:
         return num
     else:
+        return -num
     
                 
     # ex001 
