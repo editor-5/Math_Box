@@ -8,16 +8,25 @@ def subtract(a, b):
 def multiply(a, b):
     return a*b
 
-def divide_premium(a, b):
-    return a/b    
+
 # ex
 
+<<<<<<< Updated upstream
 def say_hello()
     print("hello")
  
 def get_Remainder(a, b):
     return a//subtract
             
+
+def square(a):
+    return a*a   
+
+def get_Percent(a, b):
+    return (a/b) * 100
+
+    
+
     # ex001
      
 def get_Median(a, b):
