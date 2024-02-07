@@ -13,6 +13,10 @@ def divide_premium(a, b):
 
 def say_hello()
     print("hello")
+
+def get_Remainder(a, b):
+    return a//subtract
+            
     # ex001
     # ex002
  
