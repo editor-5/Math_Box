@@ -13,6 +13,10 @@ def divide_premium(a, b):
 
 def say_hello()
     print("hello")
-    # ex001
+    
+def get_Median(a, b):
+    return (a+b)/2
+
+    # ex001 
     # ex002
  
