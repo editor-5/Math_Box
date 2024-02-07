@@ -37,14 +37,13 @@ def get_Abs(num)
         return num
     else:
         return -num
-<<<<<<< HEAD
-=======
+
 
 def get_Sum_ver1(n):
     return n(n+1)/2
 
->>>>>>> 5f630bb (add fun)
-    
+def factorial
+
                 
     # ex001 
      #  test
