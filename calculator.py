@@ -43,7 +43,7 @@ def get_Sum_ver1(n):
     return n(n+1)/2
 
 def factorial
-
+    n = 1
                 
     # ex001 
      #  test
