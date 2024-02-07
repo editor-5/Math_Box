@@ -27,7 +27,7 @@ def get_Percent(a, b):
 
     
 
-    # ex001
+    
      
 def get_Median(a, b):
     return (a+b)/2
@@ -37,6 +37,13 @@ def get_Abs(num)
         return num
     else:
         return -num
+<<<<<<< HEAD
+=======
+
+def get_Sum_ver1(n):
+    return n(n+1)/2
+
+>>>>>>> 5f630bb (add fun)
     
                 
     # ex001 
